@@ -1,0 +1,10 @@
+.venv/
+data/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.DS_Store
+PROJECT_LOG.md
+STUDY_GUIDE.md
